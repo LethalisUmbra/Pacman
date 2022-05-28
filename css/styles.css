@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 14px;
+    padding: 1rem;
+}
+
+.score-container {
+    margin-bottom: .45rem;
+}
